@@ -1,0 +1,12 @@
+{
+  "type": "apotheosis:affix_loot_entry",
+  "stack": {
+    "count": 1,
+    "id": "shieldexp:wooden_shield"
+  },
+  "weights": {
+    "haven": {
+      "weight": 25
+    }
+  }
+}

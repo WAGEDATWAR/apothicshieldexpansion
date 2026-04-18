@@ -1,0 +1,13 @@
+{
+  "itemGroup.apothicshieldexpansion": "Example Mod Tab",
+  "block.apothicshieldexpansion.example_block": "Example Block",
+  "item.apothicshieldexpansion.example_item": "Example Item",
+
+  "apothicshieldexpansion.configuration.title": "Apothic Shield Expansion Configs",
+  "apothicshieldexpansion.configuration.section.apothicshieldexpansion.common.toml": "Apothic Shield Expansion Configs",
+  "apothicshieldexpansion.configuration.section.apothicshieldexpansion.common.toml.title": "Apothic Shield Expansion Configs",
+  "apothicshieldexpansion.configuration.items": "Item List",
+  "apothicshieldexpansion.configuration.logDirtBlock": "Log Dirt Block",
+  "apothicshieldexpansion.configuration.magicNumberIntroduction": "Magic Number Text",
+  "apothicshieldexpansion.configuration.magicNumber": "Magic Number"
+}
