@@ -11,5 +11,8 @@ A simple mod that uses datapacks to add Shield Expansion integration for Apotheo
 - Created an **affix_loot_entries** entry for all added shields*, registering them in Apotheosis in the **SHIELD** category and adding support for rarities, affixes, chest loot, boss loot, boss equipment, and salvaging
 
 ## Requirements:
+- Apotheosis(available on curseforge)
+- [Shield Expansion](https://modrinth.com/mod/shield-expansion)
 
+### Annotations:
 *Except the griefer shield(since it's not intended for survival) and the netherite shield(since it inherits the components of the diamond shield when upgrading)
